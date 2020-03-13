@@ -22,7 +22,7 @@
         "webpack-dev-server": "^3.1.10"
     },
     "dependencies": {
-        "acorn": "^6.0.2",
+        "acorn": "^6.4.1",
         "eslint": "^5.7.0",
         "ramda": "^0.25.0",
         "tslint": "^5.11.0",
